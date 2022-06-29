@@ -3,4 +3,5 @@ Countdown timer written in python
 ## What does it do?
 * It is a countdown timer for the console
 ## Output
-![image](https://user-images.githubusercontent.com/48565067/176529556-130da739-4528-49c5-b35a-9d05d31d7c36.png)
+![image](https://user-images.githubusercontent.com/48565067/176534344-faeceef7-df37-4b10-b074-8de9f1c0c1ca.png)
+
